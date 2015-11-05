@@ -1,0 +1,11 @@
+{
+  "name": "Prog282Canvas04-Dozier",
+  "description": "Unit Test Prog282Canvas04-Dozier",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+	"express": "latest",
+	"handlebars": "latest"
+  }
+}
+

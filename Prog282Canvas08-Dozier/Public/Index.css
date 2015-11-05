@@ -1,0 +1,30 @@
+body {
+background-color:#008000;
+
+}
+.OrcTable{
+	background-color: #AEBDCC;
+}
+
+.TwoTables{
+	background-color:#AEBDCC;
+}
+.OrcTable, .TwoTables, #MainContent {
+    float: left; 
+    margin: 10px;
+}
+#ButtonDiv{
+	clear:both;
+	width:400px;
+	
+	border: 10px solid #999;
+	
+}
+#MainContent{
+	width:400px;
+	border: 10px solid #999;
+}
+#InputButton{
+  margin-left: auto ;
+  margin-right: auto ;
+}
